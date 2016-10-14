@@ -1,0 +1,1 @@
+These small flag images are named after their ISO 3166 country codes.
